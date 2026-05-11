@@ -1,12 +1,6 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1500117956535910441/1503193492858605608/indir.png?ex=6a027588&is=6a012408&hm=85db13e83be8577d38d459b72b7438816d46c505e52f24634dcc5c596fd24ad3&)
+[![MasterHead](https://cdn.discordapp.com/attachments/1500117956535910441/1503194079289282731/programlama-dilleri-1.jpg?ex=6a027614&is=6a012494&hm=71d3ae2557a48874488d3ba006a48a7d14ace3a574d9af3a4d40282110da2a52&)
 <h1 hizala="merkez">Merhaba 👋, ben Enes</h1>
 <h3 align="center">Türkiye'den tutkulu bir full stack developer</h3>
-
-<p hizalama="sol"> <img src="https://komarev.com/ghpvc/?username=elzarind&label=Profile%20views&color=0e75b6&style=flat" alt="elzarind" /> </p>
-
-<p hizalama="sol"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elzarind" alt="elzarind" /></a> </p>
-
-<p hizalama="sol"> <a href="https://twitter.com/efeenes_03" hedef="boş"><img src="https://img.shields.io/twitter/follow/efeenes_03?logo=twitter&style=for-the-badge" alt="efeenes_03" /></a> </p>
 
 - 🔭 Şu anda **React** üzerinde çalışıyorum
 
