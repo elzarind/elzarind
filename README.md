@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1500117956535910441/1503194079289282731/programlama-dilleri-1.jpg?ex=6a027614&is=6a012494&hm=71d3ae2557a48874488d3ba006a48a7d14ace3a574d9af3a4d40282110da2a52&)
+![MasterHead](https://cdn.discordapp.com/attachments/1500117956535910441/1503194079289282731/programlama-dilleri-1.jpg?ex=6a027614&is=6a012494&hm=71d3ae2557a48874488d3ba006a48a7d14ace3a574d9af3a4d40282110da2a52&)
 <h1 hizala="merkez">Merhaba 👋, ben Enes</h1>
 <h3 align="center">Türkiye'den tutkulu bir full stack developer</h3>
 
