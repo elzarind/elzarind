@@ -1,16 +1,35 @@
-## Hi there 👋
+[![MasterHead](https://cdn.discordapp.com/attachments/1500117956535910441/1503193492858605608/indir.png?ex=6a027588&is=6a012408&hm=85db13e83be8577d38d459b72b7438816d46c505e52f24634dcc5c596fd24ad3&)
+<h1 hizala="merkez">Merhaba 👋, ben Enes</h1>
+<h3 align="center">Türkiye'den tutkulu bir full stack developer</h3>
 
-<!--
-**elzarind/elzarind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p hizalama="sol"> <img src="https://komarev.com/ghpvc/?username=elzarind&label=Profile%20views&color=0e75b6&style=flat" alt="elzarind" /> </p>
 
-Here are some ideas to get you started:
+<p hizalama="sol"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elzarind" alt="elzarind" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p hizalama="sol"> <a href="https://twitter.com/efeenes_03" hedef="boş"><img src="https://img.shields.io/twitter/follow/efeenes_03?logo=twitter&style=for-the-badge" alt="efeenes_03" /></a> </p>
+
+- 🔭 Şu anda **React** üzerinde çalışıyorum
+
+- 👯 **Html - Css** üzerinde işbirliği yapmak istiyorum
+
+- 💬 Bana **Web Tasarımcısı ve Bot Geliştiricisi** hakkında soru sorun
+
+- 📫 Bana nasıl ulaşılır **elzarindxrd@hotmail.com**
+
+- ⚡ Eğlenceli gerçek **Eğlenceli ve Komik bir yapım var**
+
+<h3 hizala="sol">Bana bağlan:</h3>
+<p hizala="sol">
+<a href="https://twitter.com/efeenes_03" hedef="boş"><img hizalama="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efeenes_03" yükseklik="30" genişlik="40" /></a>
+<a href="https://instagram.com/efeenes_03" hedef="boş"><img hizalama="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeenes_03" yükseklik="30" genişlik="40" /></a>
+<a href="https://www.youtube.com/c/efeeneskaya" hedef="boş"><img hizalama="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efeeneskaya" yükseklik="30" genişlik="40" /></a>
+</p>
+
+<h3 align="left">Diller ve Araçlar:</h3>
+<p hizala="sol"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" genişlik="40" yükseklik="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" genişlik="40" yükseklik="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" genişlik="40" yükseklik="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="40" yükseklik="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="i̇llüstratör" genişlik="40" yükseklik="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" genişlik="40" yükseklik="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" genişlik="40" yükseklik="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" genişlik="40" yükseklik="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reaktnative" genişlik="40" yükseklik="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" genişlik="40" yükseklik="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="gerçek dışı" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elzarind&show_icons=true&locale=en&layout=compact" alt="elzarind" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elzarind&show_icons=true&locale=en" alt="elzarind" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elzarind&" alt="elzarind" /></p>
